@@ -10,3 +10,5 @@ python basic.py test.pain
 ```
 comeonprintalready["Hello World')
 ```
+
+## [Discord Server](https://discord.gg/qj8Q85wqyH)
