@@ -16,7 +16,7 @@ python basic.py test.pain
 
 comeonprintalready["Hello World')
 
----omgifinished
+---omgifinished---
 ```
 
 ## [Discord Server](https://discord.gg/qj8Q85wqyH)
