@@ -1,14 +1,22 @@
-# pain
-### programming was already painful enough but this is here to make it worse
+# Pain
+The language for masochists.
 
-## How to run?
+## Execute
+
+You need Python 3 to run Pain.
+
 ```
 python basic.py test.pain
 ```
 
-## Simple Hello World!
+## Hello World
+
 ```
+---whydidistart---
+
 comeonprintalready["Hello World')
+
+---omgifinished
 ```
 
 ## [Discord Server](https://discord.gg/qj8Q85wqyH)
