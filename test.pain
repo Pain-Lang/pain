@@ -7,10 +7,10 @@ stopfunctionhere
 
 comeonadd5already[10) ignoremytrash returns 15
 
-keepdoingthis i;10;1;1 do
+keepdoingthis i int;10;1;1 do
 
 didthishappen? comeonmodalready[i, 2) equals 0 then
-comeonprintalready[i)
+comeonprintalready[comeonstralready[i))
 stopifhere
 
 stopforhere
